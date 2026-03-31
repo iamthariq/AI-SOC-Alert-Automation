@@ -1,9 +1,26 @@
-# AI-Powered SOC Alert Automation using Wazuh, OpenAI & Telegram
+<h1 align="center">🛡️ AI-Powered SOC Alert Automation</h1>
 
-##  Overview
-This project simulates a real-world Security Operations Center (SOC) environment by detecting, analyzing, and alerting on multiple cyber attack scenarios.
+<p align="center">
+Real-Time Detection • MITRE Mapping • AI Analysis • Telegram Alerts
+</p>
 
-It integrates Wazuh SIEM with a custom Python detection engine, MITRE ATT&CK mapping, OpenAI-based alert analysis, and Telegram for real-time notifications.
+<p align="center">
+<img src="https://img.shields.io/badge/WAZUH-SIEM-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYTHON-3.10-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPENAI-AI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TELEGRAM-ALERTS-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔍 Overview
+
+This project simulates a real-world **Security Operations Center (SOC)** by automating detection, analysis, and alerting of cyber threats.
+
+It integrates **Wazuh SIEM**, a custom **Python detection engine**, **MITRE ATT&CK mapping**, and **AI-based alert analysis** using OpenAI.
+
+Alerts are automatically sent via **Telegram**, enabling real-time monitoring and response.
 
 ---
 
