@@ -14,7 +14,7 @@ Real-Time Detection • MITRE Mapping • AI Analysis • Telegram Alerts
 
 ---
 
-## 🔍 Overview
+##   Overview
 
 This project simulates a real-world **Security Operations Center (SOC)** by automating detection, analysis, and alerting of cyber threats.
 
@@ -24,7 +24,7 @@ Alerts are automatically sent via **Telegram**, enabling real-time monitoring an
 
 ---
 
-##  Architecture
+##   Architecture
 
 1. Attack Simulation (Kali / Attacker Machine)
 2. Logs generated on target system
@@ -94,7 +94,7 @@ Simulated malware execution using EICAR test file.
 
 ---
 
-## 🤖 AI-Based Alert Analysis
+##   AI-Based Alert Analysis
 
 - Integrated OpenAI API to generate SOC-style explanations
 - Provides:
@@ -104,7 +104,7 @@ Simulated malware execution using EICAR test file.
 
 ---
 
-## 📡 Real-Time Alerting
+##   Real-Time Alerting
 
 - Telegram Bot used for instant notifications
 - Alerts include:
@@ -116,7 +116,7 @@ Simulated malware execution using EICAR test file.
 
 ---
 
-## 🧠 Key Features
+##   Key Features
 
 - Real-time log monitoring using Wazuh
 - Custom detection engine in Python
@@ -128,7 +128,7 @@ Simulated malware execution using EICAR test file.
 
 ---
 
-## 🛠️ Technologies Used
+##   Technologies Used
 
 - Wazuh SIEM  
 - Python  
@@ -139,7 +139,7 @@ Simulated malware execution using EICAR test file.
 
 ---
 
-## 🎯 Conclusion
+##   Conclusion
 
 This project demonstrates practical SOC capabilities including threat detection, analysis, and automated response. It simulates real-world attack scenarios and provides intelligent alerting, making it suitable for entry-level SOC Analyst roles.
 
